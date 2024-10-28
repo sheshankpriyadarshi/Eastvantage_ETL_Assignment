@@ -27,8 +27,7 @@ This project aims to generate sales reports using data from a single database. I
 
 1. Clone the repository:
     ```
-    git clone https://github.com/analytics1211/de-assigment-sheshankpriyadarshi.git
-    cd wallet-etl
+    git clone https://github.com/sheshankpriyadarshi/Eastvantage_ETL_Assignment.git
     ```
 
 2. Create a virtual environment and activate it:
@@ -46,7 +45,6 @@ This project aims to generate sales reports using data from a single database. I
 
 ```
 pytest tests/
-
 ```
 
 __NOTE:__ The below python files expects the database file to be in working directory(directory in which python files are present) -
